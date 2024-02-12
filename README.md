@@ -37,7 +37,7 @@ Click on each card to flip. If two card are matched they will stay face up. If t
 
 ## Getting Started
 
-Click the link below to start the game. Click on cards to match. 7 incorrect matches dictates a loss.
+Click the link below to start the game. Click on cards to match. 10 incorrect matches dictates a loss.
 
 https://followthefelix.github.io/Proj1-CardMatch/ 
 
