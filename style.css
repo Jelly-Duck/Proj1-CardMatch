@@ -1,0 +1,49 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(1, 90, 90, 1);
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(4, 100px);
+  gap: 10px;
+}
+
+.card {
+  width: 100px;
+  height: 150px;
+  background-color: rgba(88, 45, 88, 1);
+  border: 4px solid rgb(2, 185, 2);
+  border-radius: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  cursor: pointer;
+  user-select: none;
+  color: white;
+}
+
+#instructions {
+  padding: 30px;
+  color: rgb(240, 136, 1);
+  font-size: 20px;
+  align-items: center;
+}
+
+#win-messsage {
+  color: rgb(37, 37, 153);
+  font-size: 50px;
+}
+
+#play-again {
+  margin: 10px 10px 20px 10px;
+}
