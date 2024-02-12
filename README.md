@@ -39,6 +39,8 @@ Click on each card to flip. If two card are matched they will stay face up. If t
 
 Click the link below to start the game. Click on cards to match. 7 incorrect matches dictates a loss.
 
+https://followthefelix.github.io/Proj1-CardMatch/ 
+
 ## Next Steps
 
 I would like to create a visual animation for the cards flipping over, instead of just showing the letters. I would also like to create levels, where after each 'win', more cards are added to the board.
