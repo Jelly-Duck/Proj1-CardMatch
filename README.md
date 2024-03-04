@@ -4,7 +4,7 @@ This will be a basic memory card game. There will be even numbers of cards to ma
 
 ## Instructions
 
-Click on each card to flip. If two card are matched they will stay face up. If two cards are clicked that do not match, they will turn face down again. Once all cards are matched and face up, the board will reset and mix with an additional set of cards to match. 
+Click on each card to flip. If two card are matched they will stay face up. If two cards are clicked that do not match, they will turn face down again. Once all cards are matched and face up, the board will reset and mix with an additional set of cards to match.
 
 ## Pictures
 
@@ -31,7 +31,7 @@ Click on each card to flip. If two card are matched they will stay face up. If t
 ## Technologies Used
 
 - HTML
-- CSS 
+- CSS
 - JavaScript
 - VSCode
 
@@ -39,7 +39,7 @@ Click on each card to flip. If two card are matched they will stay face up. If t
 
 Click the link below to start the game. Click on cards to match. 7 incorrect matches dictates a loss.
 
-https://followthefelix.github.io/Proj1-CardMatch/ 
+https://followthefelix.github.io/Proj1-CardMatch/
 
 ## Next Steps
 

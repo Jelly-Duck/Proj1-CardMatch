@@ -50,10 +50,10 @@ document.addEventListener("DOMContentLoaded", () => {
       } else {
         setTimeout(() => {
           if (firstCard) {
-            firstCard.innerText = "?";
+            firstCard.innerText = " ";
           }
           if (secondCard) {
-            secondCard.innerText = "?";
+            secondCard.innerText = " ";
           }
           resetCards();
           badMatchesCount++;
